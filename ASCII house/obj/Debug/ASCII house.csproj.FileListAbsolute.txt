@@ -1,0 +1,6 @@
+C:\Users\Ahsan\Dropbox\Education\C#\ASCII house\ASCII house\bin\Debug\ASCII house.exe.config
+C:\Users\Ahsan\Dropbox\Education\C#\ASCII house\ASCII house\bin\Debug\ASCII house.exe
+C:\Users\Ahsan\Dropbox\Education\C#\ASCII house\ASCII house\bin\Debug\ASCII house.pdb
+C:\Users\Ahsan\Dropbox\Education\C#\ASCII house\ASCII house\obj\Debug\ASCII house.exe
+C:\Users\Ahsan\Dropbox\Education\C#\ASCII house\ASCII house\obj\Debug\ASCII house.pdb
+C:\Users\Ahsan\Dropbox\Education\C#\ASCII house\ASCII house\obj\Debug\ASCII house.csprojResolveAssemblyReference.cache
